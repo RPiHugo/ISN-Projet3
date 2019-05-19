@@ -1,0 +1,17 @@
+15
+Dans quelle region viticole produit-on du vin d'Arbois ?;La Vallee du Rhone;La Provence;La Bourgogne;Le Jura;4
+A combien de bouteilles (de 75 cl) de vin equivaut un Jeroboam ?;2 bouteilles;4 bouteilles;8 bouteilles;12 bouteilles;2
+Parmi ces appellations, laquelle appartient a la region viticole du Beaujolais ?;Le Julienas;Le Passe-tout-grains;Le Bourgueil;Le Chablis;1
+Quel couple de stars produit le vin du domaine de Miraval ?;Antonio Banderas et Melanie Griffith;Nicolas Sarkozy et Carla Bruni;Angelina Jolie et Brad Pitt;Sophie Marceau et Christophe Lambert;3
+Dans quelle region viticole produit-on le Bandol ?;Le Beaujolais;Le Languedoc-Roussillon;La Provence;La Vallee du Rhone;3
+Parmi ces appellations, laquelle appartient a la region viticole de la Bourgogne ?;Le Passe-tout-grains;Le Cornas;Le Fitou;Le Madiran;1
+Sous quelle appellation est classe le vin du Château d'Yquem ?;Pauillac;Saint-Emilion;Margaux;Sauternes;4
+Dans quelle region viticole trouve-t-on des Coteaux-du-Layon ?;La Vallee du Rhone;La Vallee de la Loire;La Bourgogne;Bordeaux;2
+Que doit-on faire, d’apres un celebre dicton, pour attenuer ses propos ou ses exigences ?;Vider le vin;Mettre de l’eau dans son vin;Finir la bouteille de vin;Melanger le vin;2
+Parmi ces appellations, laquelle appartient a la region viticole de la Vallee du la Loire ?;Le Pommard;Le Vouvray;Le Vacqueyras;Le Romanee-Conti;2
+Dans quelle region viticole produit-on le Monbazillac ?;Le Sud-Ouest;Le Vallee de la Loire;La Bourgogne;La Vallee du Rhone;1
+Quel type de vin utilise-t-on dans la sauce meurette ?;Le vin blanc;Le vin rose;Le vin rouge;Le vin jaune;3
+Dans un restaurant, comment s'appelle la personne en charge de servir et de proposer le vin ?;Le vinelier;Le vintalliste;Le sommelier;L'œnologue;3
+Dans quelle region viticole produit-on le vin Nuits-Saint-Georges ?;La Bourgogne;La Vallee de la Loire;Bordeaux;Le Sud-Ouest;1
+Quelle actrice française possede des vignes en Sicile ?;Marion Cotillard;Catherine Deneuve;Fanny Ardant;Carole Bouquet;4
+https://www.quizz.fr/2013/06/27/quizz-les-vins/

@@ -1,0 +1,280 @@
+/******************************************************************************
+
+               Quiz_Mania_Langage CSS           ISN  Livet  2018-2019
+
+*******************************************************************************/
+/******************************************************************************
+
+               Dépendant de chaque page :
+
+*******************************************************************************/
+#Diapositive{
+	margin-top: -2%;
+	padding-bottom: 2%;
+	width: 35%;
+	height: 82px;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+#Diapo{
+	font: 2em Calibri;
+	display: inline;
+    
+}
+#Diapo li {
+	 margin-left: 2%;
+	 margin-right: 2%;
+     float: left ;
+     list-style-type: none;                 	/* Ne pas afficher les puces    */
+      
+}
+
+ul#Diapo  li {
+	 display: block;
+	 width: 44%;
+	 height: 80px;
+	 background-color: white;   				/* Couleur des boutons    */
+	 color: black;                     /* Couleur des noms des boutons */
+	 text-align:center;
+	 border-radius: 5px;							/* Bord arrondi */
+	 border: 3px solid black;						/* deux couleur pour le contour */
+ }
+
+ ul#Diapo li a{
+ 	display: block;
+ 	color: black;
+ 	text-decoration: none;							/* supprimer le soulignage */
+ }
+
+ #Code{
+ 	width: 70%;
+ 	margin-right: auto;
+ 	margin-left: auto;
+ }
+
+/******************************************************************************
+
+               Indépendant de chaque page :
+
+*******************************************************************************/
+ 
+
+
+ /******************************************************************************
+
+               Pour que le contenu puisse s'afficher a coté du volet:
+
+*******************************************************************************/
+#PAGE{
+	position: absolute;
+	z-index: 1;
+	width: 99.5%;
+}
+body{
+	margin: 0;
+}
+
+/******************************************************************************
+
+               Gestion du volet coulissant :
+
+*******************************************************************************/
+#volet {
+	float: left;
+	width: 25%;
+	padding: 1%;
+	background: #858388; color: #fff;	/* Couleur de fond du volet puis couleur de l'écriture */
+
+	position: relative;
+	left: -27%;
+	height: 2000px;
+	-webkit-transition: all	.5s ease-in;
+	transition: all .5s ease-in;
+
+	z-index: 10;
+}
+
+
+#volet a.ouvrir,
+#volet a.fermer {
+
+	padding: 10px 25px;
+	background: #555; /* Couleur de fond de ce bouton */
+	color: #121;	/* Couleur de l'écriture */
+	text-decoration: none;
+
+	position: absolute;
+	right: -49px;
+	top: 7%;
+
+	-ms-transform: rotate(270deg);     /* Tourne le bouton */
+	-moz-transform: rotate(270deg);
+	-webkit-transform: rotate(270deg);
+	transform: rotate(270deg);
+
+	border-radius: 0 0 8px 8px;	/* Arrondit les bord droit du bouton */
+
+}
+
+
+#volet a.fermer{
+
+	display: none;
+
+}
+
+#volet:target {
+	top: 0;
+	left: 0;
+
+}
+
+
+#volet_clos:target #volet {
+	top: -0;
+	left: -27%;	
+
+}
+
+#volet:target a.ouvrir {
+	display: none;
+}
+#volet:target a.fermer {
+	display: inline;
+}
+
+/******************************************************************************
+
+               Gestion des onglets :
+
+*******************************************************************************/
+#navigation{
+	font: 2em Arial,sans-serif ;
+}
+#navigation ul li ul {
+	display: none;
+}
+#navigation ul li:hover ul {
+ 	display:block;
+ }
+#navigation li:hover ul li {
+ 	float:none;
+ }
+
+
+#Nav_ref{
+	font: 0.75em Arial,sans-serif ;
+}
+
+#Nav_Diapo{
+	font: 0.5em Arial,sans-serif ;
+}
+
+.navigationbis li{
+	margin-top: 5%;
+	list-style-type: none;							/* Supprime le soulignage */
+	text-decoration: none;
+	color: black;
+	font-weight: bold;                      		/* Texte en gras  */
+}
+ul.navigationbis  li a {
+	 text-decoration: none;							/* supprimer le soulignage */
+ 	 color: black;
+ }
+ .navigationbis li a.active {
+ 	color: white;
+ }
+
+
+ #ICONE{
+ 	width: 8%;
+ 	height: 8%;
+ }
+
+
+ /******************************************************************************
+
+               Gestion du haut de page :
+
+*******************************************************************************/
+#haut_de_page {
+	 position: relative;
+	 margin-left: 1%;
+	 margin-top: 1%;
+	 width: 95%;
+	 margin-left: auto;
+	 margin-right: auto;
+	 text-align: center;
+     background-color: white;    		/* Couleur du fond */
+	 font: 4em Arial,sans-serif ;				/* Style et taille de la police */
+	 color: rgb(70, 70, 70);					/* Couleur de la police */
+	 
+	 border-radius: 5px;
+	 border: 3px solid rgb(150,150,150);	
+	 z-index: 3;
+}
+
+#Livet{
+	position: absolute;
+	width: 120px;
+	margin-top: -115px;
+	margin-left: 75px;
+	z-index: 4;
+}
+
+ /******************************************************************************
+
+               Gestion du bas de page :
+
+*******************************************************************************/
+
+#bas_de_page {
+	 position: fixed; 
+	 bottom: 5%;
+	 width: 60%;
+	 height: 10%;
+	 left: 50%;
+	 margin-left: -30%;
+     background-color: white;    		/* Couleur du fond */
+	 padding-left: 30px;
+	 border-radius: 5px;
+	 border: 3px solid black;	
+	 z-index: 3;
+}
+#Defile_parent{
+	margin-top: 1.5%;
+	margin-left: 8.03%;
+	width: 80%;
+	height: 30%;
+	white-space : nowrap;						/* Empêche le retour a la ligne */
+	overflow: hidden;							/* Pour que le texte ne soit plus visible en dehors du cadre */
+}
+#retourHaut {
+	color: black;
+	float: right;
+	margin-right: 3%;
+	text-decoration: none;
+	}
+.Defile_enfant {
+	display:block;
+	color: black;
+	-moz-animation:linear marqueelike 5s infinite ;  /* -moz- pour mozilla*/
+	text-align:left;
+	font: 1em Calibri ;				/* Style et taille de la police */
+}
+
+
+.Defile_enfant:after {
+	content:attr(data-text);
+	position:absolute;
+	white-space:nowrap;	/* Gère les blancs pour mettre le texte en ligne */
+	padding-left:2%;
+}
+
+
+@-moz-keyframes marqueelike {
+	0%, 1% {margin-left:0%;}		/* 1: Vers la droite  2: Vers la gauche  3: fait un retour a la ligne*/
+	99.99% {margin-left:-87.5%;}
+

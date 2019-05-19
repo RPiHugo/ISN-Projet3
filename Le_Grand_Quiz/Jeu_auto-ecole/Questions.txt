@@ -1,0 +1,17 @@
+15
+Depuis janvier 2012, que risque-t-on si on est arrete avec un telephone portable à la main ?;3 points en moins;2 points en moins;Une garde à vue;Une contravention de 2eme categorie;1
+Qui n'a pas le droit d'utiliser les voies reservees aux transports en commun ?;Les bus;Les taxis;Les scooters;Les ambulances;3
+Quelle est la forme geometrique des panneaux signalisant un danger ?;Triangle;Losange;Rond;Carre;1
+Quelle est la couleur d'un panneau de route europeenne ?;Blanche;Rouge;Bleu;Vert;4
+Quelle est la duree minimale de la formation pratique de conduite ?;15 heures;20 heures;30 heures;35 heures;2
+Avec le permis B, on peut conduire des voitures de tourisme PTAC de ...?;2 tonnes;3,5 tonnes;5 tonnes;10 tonnes;2
+Dans une campagne de sensibilisation, comment se prenomme le capitaine de soiree qui ne boit pas ?;Pat;Bill;Dave;Sam;4
+Sur le tableau de bord, que veut dire le rond rouge avec la lettre P en son centre ?;Temoin de charge de batterie;Temoin de niveau du liquide de freinage;Temoin de pression d'huile;Frein à main serre;4
+Comment positionner les mains sur un volant ?;A 23h15;A 10h10;A 8h45;A 12h05;2
+Combien de personnages figurent sur un feu pour pietons ?;0;1;2;3;3
+Quand est-il conseille de depasser un vehicule ?;A un passage à niveau;Sur un passage pieton;Dans un virage;Sur une route droite;4
+Quelle est la vitesse maximale de circulation en ville ?;20 km/h;30 km/h;40 km/h;50 km/h;4
+Quel est le temps de reaction pour une vitesse de circulation de 50 km/h ?;5 metres;15 metres;35 metres;50 metres;2
+Combien de temps dure un permis probatoire ?;1 an;3 ans;5 ans;6 ans;2
+En France, quel est le taux legal d'alcoolemie à ne pas depasser ?;0,2 g d'alcool par litre de sang;0,5 g d'alcool par litre de sang;0,7 g d'alcool par litre de sang;1 g d'alcool par litre de sang;2
+https://www.quizz.fr/2013/04/08/quizz-auto-ecole/

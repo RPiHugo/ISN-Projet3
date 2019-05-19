@@ -1,0 +1,17 @@
+15
+Quel est le dessert prefere d’Harry Potter ?;Le brownie;L'eclair au cafe;La pecan pie;La tarte a la melasse;4
+A quel groupe de musique pop rock doit-on le titre « The Bakery Song » ?;Red Hot Chili Pepers;Arctic Monkeys;The Libertines;The Kills;2
+Qui a « apporte des bonbons, parce que les fleurs, c´est perissable » dans l'une de se chansons ?;Calogero;Jacques Brel;Bobby Lapointe;Francis Cabrel;2
+Quel est le dessert prefere des Schtroumpfs ?;Le champignon coco-chocolat;Le cupcake a la framboise;Le cake aux mûres;La tarte a la salsepareille;4
+Qui veut offrir des « caramels, bonbons et chocolats » a Dalida dans une chanson ?;Yves Montand;Jean-Paul Belmondo;Serge Lama;Alain Delon;4
+Qui chante « L'amour c'est du bonbon » ?;Richard Gotainer;Dorothee;Carlos;Chantal Goya;1
+Qui a chante « La femme chocolat » ?;Juliette;Annie Cordy;Olivia Ruiz;Lio;3
+Qui a ecrit le roman « Charlie et la chocolaterie » ?;Roald Dahl;J.Rowling;TR Tolkien;Daniel Pennac;1
+Qu'est-ce qu'un Mistral Gagnant, cite dans une chanson de Renaud ?;Un caramel;Un bonbon;Un chocolat;Un gâteau;2
+Quelle actrice tient le role principal dans le film « Le chocolat », de Lasse Hallström en 2001 ?;Sabine Azema;Josiane Balasko;Juliette Binoche;Isabelle Huppert;3
+Quel groupe de musique interprete le tube "Pop'n'Gum" ?;Superbus;BB Brunes;Kyo;Plasticines;1
+Par qui est remplacee la mascotte Monsieur Malabar depuis 2011 ?;Par un tigre rouge;Par un chat noir;Par une petite fille;Par Bob l'Éponge;2
+Qui a ecrit les paroles de la chanson « Les Sucettes », interpretee par France Gall ?;Michel Berger;Georges Brassens;Serge Gainsbourg;Étienne Roda-Gil;3
+Quel est le dessert prefere d’Homer Simpson ?;Les eclairs au chocolat;Les donuts;Les brownies;Les gaufres a la vanille;2
+A quel dessert fait reference le film de Daniele Thompson ?;La tarte;La charlotte;La galette;La bûche;4
+https://www.quizz.fr/2016/03/07/le-monde-du-sucre-dans-la-culture/

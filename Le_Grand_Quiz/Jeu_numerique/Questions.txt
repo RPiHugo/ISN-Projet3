@@ -1,0 +1,72 @@
+70
+Quel reseau francais a finalement ete abandonne a cause de la "bande a Giscard" ?;Samos;Cyclades;Myriad;Naxos;2
+Teilhard de Chardin a influence certaines theories sur le web avec sa;Mediasphere;Noosphere;Pornosphere;Jaypaksaaphere;2
+Pourquoi Pamela Anderson fait partie de l'histoire du web ?;Elle etait la personne la plus recherchee sur les moteurs de recherche, du coup les webmasters mettaient son nom dans les metadonnees;Elle est l'inspiratrice de NetWatch, societe qui protege les enfants contre les predateurs du web;Elle a eu une aventure Tim Berners-Lee;Elle etait l'egerie du service de mails, Palmail@;1
+Qui a invente le terme d'hypertexte ?;Ted Bundy;Ted Nelson;Tim Berners-Lee;Vannevar Bush;2
+Quel est le protocole qui permet d'attribuer un nombre d'adresses Ip quasi illimitees?;IP5;IPIP;IPV6;IP4;3
+Ou a ete cree le web ?;Aux Etats-Unis;En Suisse;Au Canada;En Belgique;2
+Quel est le nom de l'institution ou a ete cree le web?;Le CERN;L'IRIS;Le COCAR;Le CIL;4
+Quelle expression lancee en 2009 par l'equipe de Tim O'Reilly a fait un flop ?;Web squared;Web helice;Web cube;Web zero;1
+Que sont les imp (Interface Message Processor) d'Arpanet ?;Des routeurs qui permettaient de pouvoir faire fonctionner des ordinateurs de marque differente sur le reseau;Des applications qui permettaient le transfert de messages tres courts entre les participants au reseau;Des fils de cuivre pour faire transiter les messages;Des resistances integrees au serveur et qui buguaient parfois;1
+Quel est le protocole de communication a la base d'Internet ?;TP/LDREN;Xor;TCP/IP;X25;3
+Quel dispositif constitue une prefiguration de l'hypertexte ?;Le beineix;Le tirex;Le memex;Le bitrex;3
+Quel etait le leader de la messagerie et du chat francophone dans les annees 90 ?;Ulla;Mail Yes;Geocities;Caramail;4
+Quel etait le complice du createur du web ?;Albert Carreau;Robert Cailliau;Will Smith;Norbert Wiener;2
+Quel inventeur de l'e-mail est recemment decede ?;Ray Parker;Ray Ponce;Ray Soundgarder;Ray Tomlinson;4
+Ou a lieu la premiere conference sur le web en 1994 ?;Au Cern;Il n'y as pas eu de conferences...;A l'INRIA de Paris;Au Standford Reseach Institut;1
+Quel est le co-fondateur de Google avec Larry Page ?;Jean Pierre Papin;Sergey Grin;Sergey Brin;Jeff Bezos;3
+L'idee de lancer un reseau a l'IPTO est de;Vannevar Bush;Robert Taylor;Robbie Lamouche;Bobbie Fischer;2
+Combien y-a-til de sites connectes au reseau Arpanet en decembre 1969 ?;12;8;4;2;3
+Quel est le nom de du reseau informatique cooperatif d’universites americaines ?;Darknet;Bitnet;Batnet;Badnet;2
+Qui est l'inventeur du web ?;Tim O'Reilly;Tim Berners-Lee;Bruce Lee;Tommy Lee Jones;2
+Quel gourou du transhumanisme travaille chez Google ?;Guy Fawkes;Igor Bogdanov;Raymond Kurzweil;Paul Preboist;3
+Quelle science a influence l'algorithme de Google ?;La pluviometrie;La scientometrie;La scientologie;La Mettrie;2
+Qui a ecrit l'article "what is web 2.0 ?";Tim O'Reilly;Tim berners-Lee;John Battelle;Craig Cline;1
+En 1985, le The Well (The Whole Earth’ Lectronic Link) prend la suite du Whole Earth Catalog, initiatives fondees par;Rod Steward;Stewart Brand;Robert Fagor;Steven Brasier;2
+Quel symbole retrouve-t-on sur les premieres version de Netscape ?;Un labrador;Une Kippa surgelee;Un gouvernail;D, la reponse D;3
+Ftp (file transfer protocol) a ete developpe par;Rick Castle;Jon Pastis;Jon Postel;Jon Pastel;3
+Qui a invente la souris ?;Julia Roberts;Bill Clinton;Douglas Englebart;Bill Gates;3
+Quel "pere de l'Internet" est desormais chief internet angelist chez Google ?;Larry Page;Sergey Brin;Eric Schmidt;Vinton Cerf;4
+Quel reseau social fut plus populaire que Facebook a ses debuts ?;Scarface;MySpace;Myplace;Myface;2
+Quel entrepreneur francais et FAI a fait fortune dans le minitel rose ?;Pierre Bellanger;Roger Rabbit;Xavier Niel;Francis Quinzulla;3
+Quel etait le nom d'un des plus celebres moteurs de recherche des debuts du web ?;Yahoo;Hasta la vista;Lycos;Alta Vista;2
+Quel etait le nom du projet hypertextuel de l'inventeur du mot hypertexte ?;Wanadoo;Mamadu;Xanadu;Xanax;3
+Quel rapport a contribue au mythe du reseau militaire ?;Baran;Baranne;Marrant;Aldebaran;1
+Le web semantique repose sur des identifiants particuliers, lesquels ?;UDI;URI;UNI;URL;2
+Quelles celebres conferences furent le berceau des reflexions autour de la cybernetique ?;Messi;Minsky;Macy;Massey-ferguson;3
+Quel est le nom du premier navigateur populaire cree par Marc Andreessen ?;Mosaic;Taxibrowser;Riguidelbrowser;Internet Explorer;1
+Quel etait le site le plus visite en 2004 selon alexa ?;Google;Yahoo;Facebook;Youtube;2
+Quel auteur a parle du village global ?;Les village people;Harold Innis;Christophe Izard;Marshall Mc Luhan;4
+Quel sociologue compare les ordinateurs a de simples becanes ?;Jean Benguigui;Dominique Wolton;Gerard Lambert;Robert Pirsig;4
+Qui a invente le terme de cyberspace (cyberespace);Pierre Levy;Bruce Sterling;Charles Babbage;William Gibson;4
+Quel etait le premier directeur de l'IPTO (Information Processing Techniques Office), organisme qui portera le projet de reseau arpanet;Buenokinder;Rod Laver;Licklider;Richlader;3
+Qu'est-ce que la quadrature du net ?;Une association qui prone un nudisme digital integral;De pauv's gars dans leur garage qui essaient de mesurer le web;Une association de defense des droits et libertes des citoyens sur Internet fondee en 2008;Une association qui cherche a ameliorer l'enseignement des mathematiques par des cours en ligne..;3
+En quelle annee est-cree yahoo ?;1994;1998;1997;1996;1
+L'objectif premier du web tel que defini par Berners-Lee en 1991 sur Usenet etait;Du blanc, du rouge, du saucisson;Des annonces de colloque, des bouts de code et de la visioconference.;Des donnees, des news et de la documentation;De l'information, des donnees et des mails;3
+Qui a parle d'un livre telephote, en imaginant un internet des temps futurs ?;Jules Verne;Jean D'Ormesson;Hg Wells;Paul Otlet;4
+Quel service de Google existe encore ?;Google base;Google calendar;Google reader;Google Wave;2
+Qu'est-ce qui a ete qualifie de "vague mais prometteur" ?;Le projet du web;Le web semantique;L'idee du web 2.0;Le projet initial d'Arpanet;1
+En quelle annee, Unix integre -t-il le protocole de transmission par paquets?;1988;1983;1986;1984;2
+Qui a vante les merites des autoroutes de l'information ?;Alcofribas Nasier;Bison Ravi;Bison Fute;Al Gore;4
+Quel est le nom de l'ancetre d'Internet ?;Toupetilaplanet;Arkanet;Telnet;Arpanet;4
+Quel psychoacousticien a ecrit un article sur la symbiose Homme-machine et a fonde le Augmentation Research Center ?;Licklider;Thatcher;Minsky;Turing;1
+Yahoo etait au depart;Un site de messagerie instantane;Un metamoteur;Un site de petites annonces;Un annuaire;4
+Comment se nomme le consortium qui s'occupe des questions notamment techniques du web ?;WWF;WBC;W3C;WBA;3
+Qui a popularise le terme de communautes virtuelles bien avant les reseaux sociaux ?;Goldfinger;Goldberg;Rheingold;Goldmember;3
+La transmission par paquets repose sur l'idee d'un reseau;Postier;Deconcente;Centralise;Distribue;4
+En fait, les createurs du reseau Arpanet sont;Des militaires;Des militants;Des universitaires et des ingenieurs;Des jeunes surdoues;3
+Quel site permet de retrouver d'anciennes versions de pages web ou de sites disparus;Backtothefuture;Hypermemory;Garbageofthenet;Internetarchive;4
+Tim Berners-Lee a evoque le Giant Global ...;Gramm;Graph;Grasp;Graf;2
+Comment se nomment les representations des connaissances utilisees en informatique ?;Les oncologies;Les tautologies;Les ontologies;Les tontonlogies;3
+Qui est l'inventeur de l'expression web 2.0 ?;Tim O'Reilly;Tim Berners-Lee;Chris Anderson;Dale Dougherty;4
+La declaration d'independance du cyberespace de 1996 a ete redigee par;Malow Marsh;Philippe Marlowe;Robert Charlow;John Barlow;4
+Quelle revue specialisee est consideree comme un element moteur de l'evolution du web et des outils numeriques ?;Wired;Fired;Playboy;Forbes;1
+Qu'est ce que le web invisible ?;Le web uniquement visible avec des lunettes 3D;Un espace musical en ligne ou on peut telecharger l'integral de Phil Collins...;Le web que ne comprend pas Bernard Cazeneuve;Les sites et contenus non indexes par les moteurs de recherche;4
+Qu'est-ce que l'arpa?;Advanced Research Projects Agency;American Research Projects Agency;Alcofribas Nasier;Augmented Research Projects Agency;1
+Quel sera le navigateur leader et concurrent d'Internet Explorer entre 94 et 98;Cyberscape;Tespascape;Netscape;Escape;3
+Quelle marionnette des guignols savait utiliser le mulot ?;Michel Rocard;Johnny Hallyday;Christine Bravo;Jacques Chirac;4
+Quelle plateforme a heberge de tres nombreux sites amateurs dans les annees 90 ?;Geocities;Geospace;Geotities;Geostore;1
+Le langage Html est un derive simplifie de;UML;XML;SGML;XHTML;3
+Les triplets, c'est sujet-?-objet;Prediction;Preference;Predicat;Presage;3
+Que sont les Rfc (Request for Comments);La somme des commentaires consultables gratuitement mis en ligne par les membres du reseau redtube;Une serie numerotee de documents officiels decrivant les aspects techniques d'Internet, ou de differents materiels informatiques;Une liste des demandes d'aides pour des difficultes rencontrees par les developpeurs qui cherchaient a se connecter au reseau Arpanet avec leur TO7.;Des espaces de discussion ou on proposait ses services pour aider ceux qui rencontraient des difficultes pour se connecter au reseau;2
+http://infonumbordeaux.fr/culturenumerique/
